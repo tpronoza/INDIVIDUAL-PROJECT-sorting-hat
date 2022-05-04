@@ -1,7 +1,17 @@
 body{
-  background-color: lightcoral;
+  background-color: rgb(125, 156, 196);
+  
 }
 
-.all-houses {
-  
+.logo {
+  margin: auto;
+  text-align: center;
+}
+.logo img{
+  width: 25%;
+  height: 25%;
+}
+
+.sortBtn{
+background-color: rgb(212, 227, 245);
 }
